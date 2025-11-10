@@ -9,7 +9,7 @@ In this repository you will find projects that I've worked on during my time as 
 - [The Origins of Markov Chains ( and the Monte Carlo Method )](https://github.com/alvarezeldinrodrigo12-code/stat_Markov_Montecarlo)
 
 ## 🤖 Machine Learning
-- [Customer Churn Prediction
+- [Customer Churn Predictiona
 - [Clustering Comparison
 
 ## 🧠 Deep Learning
